@@ -1,0 +1,33 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*service-account*.json
+credentials.json
+token.json
+
+# Generated data
+data/generated/
+data/processed/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+
+# Test and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Temporary files
+*.tmp
