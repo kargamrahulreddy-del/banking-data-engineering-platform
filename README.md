@@ -34,3 +34,4 @@ Google Cloud Platform.
 - Accounts
 - Transactions
 Git and GitHub workflow practice completed.
+Learning Git step by step with a real banking data engineering project.
