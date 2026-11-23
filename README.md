@@ -36,3 +36,4 @@ Google Cloud Platform.
 Git and GitHub workflow practice completed.
 Learning Git step by step with a real banking data engineering project.
 This change was created inside the feature/git-practice branch.
+Added customer ingestion feature documentation.
